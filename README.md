@@ -2,7 +2,7 @@
 # 📊 Analiza danych INC 5000 (2019)
 
 Projekt analityczny oparty na danych z listy **INC 5000** za rok 2019, przedstawiającej najszybciej rozwijające się firmy w USA.  
-Analiza została wykonana w **SQL** oraz zwizualizowana w **Power BI**.
+Analiza została wykonana w **SQL** 
 
 ---
 
